@@ -1,0 +1,6 @@
+{
+  "name": "KwikShop - Instant Storefront & WhatsApp Commerce",
+  "description": "Create a shareable online storefront in 2 minutes with WhatsApp ordering, mobile money payments, marketing flyers, and local town discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
